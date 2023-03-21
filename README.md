@@ -1,10 +1,11 @@
-# Hi there 👋, I'm Lev – Lead Developer!
+# Hi there 👋
+![Hey, I am lev](https://user-images.githubusercontent.com/128470602/226672626-6d08262c-505d-47a8-af44-1aae139faf23.png)
 
-👨‍💻 I am a skilled full-stack developer with over 4 years of experience working with startups in various domains, I bring a depth of expertise and a track record of success to every project. Always eager to learn new things and rise to challenges.
-
-
-
-
+👨‍💻 I am a skilled full-stack developer with over 4 years of experience working with startups in various domains.
+I bring a depth of expertise and a track record of success to every project. Always eager to learn new things and rise to challenges.
+!
+!
+!
 ## About me:
 
 - Solving problems one line of code at a time ⌨️
@@ -18,10 +19,9 @@
 - Constantly learning and expanding my skills 📚
 
 - When I'm not coding, you can find me gaming or exploring the great outdoors 🌳
-
-
-
-
+!
+!
+!
 ## 🚀 Here are some of my skills and technologies that I'm proficient in:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,10 +44,9 @@
 ![Sentry](https://img.shields.io/badge/Sentry-FB4226?style=for-the-badge&logo=sentry&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
-
-
+!
+!
+!
 ## Get in Touch
 
 If you're interested in working together, feel free to reach out to me at pringleslev@gmail.com. 
