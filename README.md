@@ -2,9 +2,8 @@
 
 a skilled full-stack 👨🏻‍💻 with over 4 years of experience working with startups in various domains.
 I bring a depth of expertise and a track record of success to every project. Always eager to learn new things and rise to challenges.
-!
-!
-!
+<br>
+<br>
 ## About me:
 
 - Solving problems one line of code at a time ⌨️
@@ -18,9 +17,8 @@ I bring a depth of expertise and a track record of success to every project. Alw
 - Constantly learning and expanding my skills 📚
 
 - When I'm not coding, you can find me gaming or exploring the great outdoors 🌳
-!
-!
-!
+<br>
+<br>
 ## 🚀 Here are some of my skills and technologies that I'm proficient in:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,9 +41,8 @@ I bring a depth of expertise and a track record of success to every project. Alw
 ![Sentry](https://img.shields.io/badge/Sentry-FB4226?style=for-the-badge&logo=sentry&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-!
-!
-!
+<br>
+<br>
 ## Get in Touch
 
 If you're interested in working together, feel free to reach out to me at pringleslev@gmail.com. 
