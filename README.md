@@ -1,7 +1,6 @@
-# Hi there 👋
 ![Hey, I am lev](https://user-images.githubusercontent.com/128470602/226672626-6d08262c-505d-47a8-af44-1aae139faf23.png)
 
-👨‍💻 I am a skilled full-stack developer with over 4 years of experience working with startups in various domains.
+a skilled full-stack 👨🏻‍💻 with over 4 years of experience working with startups in various domains.
 I bring a depth of expertise and a track record of success to every project. Always eager to learn new things and rise to challenges.
 !
 !
