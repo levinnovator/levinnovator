@@ -1,7 +1,7 @@
 ![Hey, I am lev](https://user-images.githubusercontent.com/128470602/226672626-6d08262c-505d-47a8-af44-1aae139faf23.png)
 
-**a skilled full-stack 👨🏻‍💻 with over 4 years of experience working with startups in various domains.
-**I bring a depth of expertise and a track record of success to every project. Always eager to learn new things and rise to challenges.
+A skilled full-stack 👨🏻‍💻 with over 4 years of experience working with startups in various domains.
+I bring a depth of expertise and a track record of success to every project. Always eager to learn new things and rise to challenges.
 <br>
 <br>
 ## About me:
@@ -19,8 +19,8 @@
 - When I'm not coding, you can find me gaming or exploring the great outdoors 🌳
 <br>
 <br>
-## 🚀 Here are some of my skills and technologies that I'm proficient in:
 
+## 🚀 Here are some of my skills and technologies that I'm proficient in:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
