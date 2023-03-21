@@ -4,19 +4,21 @@
 
 
 
+
 ## About me:
 
-💻 Solving problems one line of code at a time ⌨️
+- Solving problems one line of code at a time ⌨️
 
-🤔 Always asking "What if?" and "Why not?" to push boundaries 🤯
+- Always asking "What if?" and "Why not?" to push boundaries 🤯
 
-🚀 Love building innovative solutions that make a difference 👨‍🚀
+- Love building innovative solutions that make a difference 👨‍🚀
 
-👨‍👩‍👧‍👦 Collaborating with others to achieve success 🤝
+- Collaborating with others to achieve success 🤝
 
-🤓 Constantly learning and expanding my skills 📚
+- Constantly learning and expanding my skills 📚
 
-🎮 When I'm not coding, you can find me gaming or exploring the great outdoors 🌳
+- When I'm not coding, you can find me gaming or exploring the great outdoors 🌳
+
 
 
 
@@ -43,7 +45,10 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+
+
+
 ## Get in Touch
 
 If you're interested in working together, feel free to reach out to me at pringleslev@gmail.com. 
-I'd love to hear about your project and see how I can help! 😄:
+I'd love to hear about your project and see how I can help! 😄
